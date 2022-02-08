@@ -1,0 +1,44 @@
+body {
+    background-image: url(user-submitted-background-142.jpg);
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note {
+    font-size: 17px;
+    color: black;
+}
+
+#reder {
+    color: red;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(71, 0, 80);
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background: transparent;
+    background-color: rgba(128, 128, 128, 0.507);
+    font-size: large;
+    font-weight: bold;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-left: 30px;
+}
+
+video {
+    margin-left: 15px;
+    margin-top: 30px;
+}
